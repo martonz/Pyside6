@@ -1,5 +1,5 @@
 from PySide6.QtWidgets import QApplication, QWidget
-
+# Open an Empty Window
 import sys
 
 app = QApplication(sys.argv)
